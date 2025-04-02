@@ -1,0 +1,234 @@
+/* ################ */
+/* General */
+/* ################ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --green: #00af7a;
+  --white: #fefefefe;
+  --black: #000000;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--green);
+}
+/*section-title */
+.section-heading {
+  position: relative;
+  margin-top: 60px;
+  text-align: center;
+}
+.section-heading h2 {
+  color: var(--green);
+  font-size: 2.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.section-heading::before {
+  content: '';
+  position: absolute;
+  top: 50px;
+  left: 47.5rem;
+  width: 220px;
+  height: 5px;
+  background-color: var(--green);
+  transform: translateX(-50%);
+}
+.section-heading::after {
+  content: '';
+  position: absolute;
+  top: 45px;
+  left: 50%;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: var(--green);
+  transform: translateX(-50%);
+}
+.btn {
+  color: var(--white);
+  background-color: var(--green);
+  font-size: 1em;
+  font-weight: 600;
+  display: inline-block;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+  border-radius: 2px;
+}
+.btn:hover {
+  background-color: var(--black);
+  color: var(--white);
+  transition: 0.5s ease-in;
+}
+/* Bouton de redirection  */
+.arrow {
+  height: 50px;
+  width: 50px;
+  background-color: rgba(0, 175, 122, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  z-index: 1000;
+  right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+}
+
+.icone {
+  font-size: 24px;
+  color: var(--white);
+}
+
+/* ############## */
+/* Header */
+/* ############## */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.6s;
+  padding: 35px 125px;
+  z-index: 100000;
+}
+
+header .logo {
+  position: relative;
+  font-weight: 700;
+  color: var(--black);
+  text-decoration: none;
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: 0.6s;
+}
+header .logo img {
+  width: 15%;
+  margin-top: -10px;
+}
+header ul {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+header ul li {
+  position: relative;
+  list-style: none;
+}
+header ul li a {
+  position: relative;
+  margin: 0 15px;
+  text-decoration: none;
+  color: var(--black);
+  letter-spacing: 2px;
+  transition: 0.6s;
+}
+header ul li a:hover {
+  color: var(--green);
+  transition: 0.5s ease-in-out;
+}
+header.sticky {
+  padding: 5px 100px;
+}
+header.sticky {
+  background-color: var(--black);
+}
+
+/* Styles pour le menu burger */
+.menu-toggle {
+  display: none;
+  font-size: 1.5em;
+  cursor: pointer;
+  color: var(--white);
+}
+
+/* ############## */
+/* Home */
+/* ############## */
+
+/* ############## */
+/* About */
+/* ############## */
+
+/* ############## */
+/* Services */
+/* ############## */
+
+/* ############## */
+/* Pages */
+/* ############## */
+
+/* ############## */
+/* Blog */
+/* ############## */
+
+/* ############## */
+/* Contact */
+/* ############## */
+
+/* ############## */
+/* Footer */
+/* ############## */
+
+/* ############## */
+/* Responsive */
+/* ############## */
+@media (max-width: 480px) {
+}
+@media (max-width: 600px) {
+}
+@media (max-width: 768px) {
+  header {
+    padding: 10px 30px;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-list {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    background-color: var(--black);
+    flex-direction: column;
+    align-items: center;
+    display: none;
+    margin-top: 125px;
+  }
+
+  .nav-list.active {
+    display: flex;
+  }
+
+  .nav-list li {
+    margin: 15px 0;
+  }
+
+  header .logo img {
+    width: 15;
+  }
+  header.sticky {
+    padding: 15px 50px;
+  }
+}
+@media (max-width: 992px) {
+}

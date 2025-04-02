@@ -1,13 +1,11 @@
 /* ################ */
 /* General */
 /* ################ */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+* {
+  font-family: 'Roboto', sans-serif;
+}
 :root {
   --green: #00af7a;
   --white: #fefefefe;
@@ -51,7 +49,7 @@
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background-color: var(--green);
+  background-color: var(--black);
   transform: translateX(-50%);
 }
 .btn {

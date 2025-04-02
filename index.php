@@ -80,12 +80,40 @@
   <!-- ##############  -->
   <!-- About  -->
   <!-- ##############  -->
-  <section>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto nihil reiciendis ipsam provident. At corrupti a maiores sapiente, animi recusandae corporis voluptate optio atque voluptas iure quisquam numquam totam et!
-    Ab cupiditate qui doloribus in praesentium recusandae, iusto commodi nihil doloremque minus atque distinctio, officia corrupti optio corporis. Omnis labore qui inventore cumque cum ab dicta sunt non distinctio error.
-    Deserunt debitis at fugit, cum veritatis ab distinctio eveniet cumque omnis dolore totam eum assumenda mollitia aut architecto ipsum animi numquam labore libero a. Facilis corrupti quaerat odio culpa cupiditate.
-    Porro repellendus quaerat quia aliquid exercitationem ipsam quae animi vero, error minus recusandae reiciendis eos eius aut maiores cupiditate sunt placeat fugiat, quod nostrum. Similique laudantium repellendus quas odit exercitationem!
-    Nisi placeat mollitia nostrum molestiae pariatur eligendi natus vitae quasi soluta repellendus, enim, fugit obcaecati, tempora porro esse numquam! Veritatis culpa impedit laboriosam dolor ut fugit commodi. Praesentium, nam porro.
+  <section class="about" id="about">
+    <div class="section-heading">
+      <h2>about</h2>
+      <h4 class="py-4 fs-1">Qui nous sommes?</h4>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <img src="/assets/images/about.jpg" class="img-fluid rounded" alt="">
+        </div>
+        <div class="col-md-6 my-5">
+          <h2>Rêvez grand, inspirez le monde.</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugiat maiores, natus ipsa dolorem vitae rerum blanditiis dolorum labore! Odio, alias illum quibusdam voluptatum explicabo autem vel eveniet tempore possimus.</p>
+          <ul class="px-3">
+            <li>
+              Produits et solutions
+            </li>
+            <li>
+              Rêvez grand, solutions inspirantes.
+            </li>
+            <li>
+              Disponibilité des installations assurée et sécurité opérationnelle.
+            </li>
+            <li>
+              Amélioration des conditions d'exploitation.
+            </li>
+            <li>
+              <span> Soulagement des ressources de maintenance internes de l'entreprise.</span>
+            </li>
+          </ul>
+          <a href="#" class="btn">contact</a>
+        </div>
+      </div>
+    </div>
   </section>
 
 

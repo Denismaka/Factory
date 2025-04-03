@@ -35,7 +35,6 @@
       <li><a href="/index.php#about" class="text-capitalize">about</a></li>
       <li><a href="/index.php#services" class="text-capitalize">services</a></li>
       <li><a href="/index.php#pages" class="text-capitalize">pages</a></li>
-      <li><a href="/index.php#blog" class="text-capitalize">blog</a></li>
       <li><a href="/index.php#contact" class="text-capitalize">contact</a></li>
     </ul>
   </header>
@@ -164,12 +163,48 @@
   <!-- ##############  -->
   <!-- Pages  -->
   <!-- ##############  -->
+  <section class="pages" id="pages">
+    <div class="section-heading">
+      <h2>pages</h2>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="/assets/images/pages-01.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-md-4">
+          <div class="content">
+            <h4 class="text-capitalize">oil & gas industry</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error consectetur voluptatibus tenetur animi. Quia sed aut sequi, labore eius, odio harum alias id tempora pariatur, incidunt tempore eum expedita libero.</p>
+            <a href="#" class="btn">about us</a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <img src="/assets/images/pages-02.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-md-4">
+          <div class="content">
+            <h4 class="text-capitalize">automative manufacturing</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error consectetur voluptatibus tenetur animi. Quia sed aut sequi, labore eius, odio harum alias id tempora pariatur, incidunt tempore eum expedita libero.</p>
+            <a href="#" class="btn">about us</a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <img src="/assets/images/pages-03.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-md-4">
+          <div class="content">
+            <h4 class="text-capitalize">power & energy</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error consectetur voluptatibus tenetur animi. Quia sed aut sequi, labore eius, odio harum alias id tempora pariatur, incidunt tempore eum expedita libero.</p>
+            <a href="#" class="btn">about us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
 
-  <!-- ##############  -->
-  <!-- Blog  -->
-  <!-- ##############  -->
 
 
 

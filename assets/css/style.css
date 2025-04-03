@@ -213,7 +213,16 @@ header.sticky {
 /* ############## */
 /* Services */
 /* ############## */
-
+#services {
+  margin-top: 10rem;
+}
+#services .container .row {
+  margin-top: 5rem;
+}
+#services .container .row .col-md-4 i {
+  color: var(--green);
+  font-size: 2rem;
+}
 /* ############## */
 /* Pages */
 /* ############## */

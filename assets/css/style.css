@@ -215,6 +215,13 @@ header.sticky {
 /* ############## */
 #services {
   margin-top: 10rem;
+  padding-top: 3rem;
+  height: 120vh;
+  background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
+    url('/assets/images/services.webp');
+  color: var(--white);
+  background-size: cover;
+  background-attachment: fixed;
 }
 #services .container .row {
   margin-top: 5rem;
@@ -226,10 +233,15 @@ header.sticky {
 /* ############## */
 /* Pages */
 /* ############## */
-
-/* ############## */
-/* Blog */
-/* ############## */
+#pages .container .row {
+  margin-top: 10rem;
+}
+#pages .container .row .col-md-4 .content {
+  padding: 42px 25px;
+  margin: 0px -24px -24px;
+  background-color: var(--black);
+  color: var(--white);
+}
 
 /* ############## */
 /* Contact */

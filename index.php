@@ -35,6 +35,7 @@
       <li><a href="/index.php#about" class="text-capitalize">about</a></li>
       <li><a href="/index.php#services" class="text-capitalize">services</a></li>
       <li><a href="/index.php#pages" class="text-capitalize">pages</a></li>
+      <li><a href="/index.php#témoignages" class="text-capitalize">témoignages</a></li>
       <li><a href="/index.php#contact" class="text-capitalize">contact</a></li>
     </ul>
   </header>
@@ -202,6 +203,49 @@
       </div>
     </div>
   </section>
+
+  <!-- ##############  -->
+  <!-- Témoignages  -->
+  <!-- ##############  -->
+  <section class="témoignages" id="témoignages">
+    <div class="section-heading">
+      <h2>Témoignages</h2>
+      <h5 class="py-5 fs-1 text-capitalize">clients say about us </h5>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card">
+            <div class="content">
+              <img src="/assets/images/Avis-01.jpg" class="img-fluid rouded" alt="">
+            </div>
+            <span class="fs-2 text-uppercase fw-bold py-4">leaticia kitoko</span>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda corrupti facilis quo earum numquam repellendus. Nesciunt blanditiis aliquam ex aut dolores! Explicabo reiciendis mollitia ullam dignissimos praesentium, rem corrupti voluptas.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <div class="content">
+              <img src="/assets/images/Avis-02.jpg" class="img-fluid rouded" alt="">
+            </div>
+            <span class="fs-2 text-uppercase fw-bold py-4">cathy osthudi</span>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda corrupti facilis quo earum numquam repellendus. Nesciunt blanditiis aliquam ex aut dolores! Explicabo reiciendis mollitia ullam dignissimos praesentium, rem corrupti voluptas.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <div class="content">
+              <img src="/assets/images/Avis-03.jpg" class="img-fluid rouded" alt="">
+            </div>
+            <span class="fs-2 text-uppercase fw-bold py-4">fiston low</span>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda corrupti facilis quo earum numquam repellendus. Nesciunt blanditiis aliquam ex aut dolores! Explicabo reiciendis mollitia ullam dignissimos praesentium, rem corrupti voluptas.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
 
 
 

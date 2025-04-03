@@ -23,7 +23,7 @@ btn.addEventListener('click', () => {
   });
 });
 
-// Initialiser Swiper
+// Initialiser Swiper pour le scrool du banner
 var swiper = new Swiper('.swiper-container', {
   loop: true,
   autoplay: {
@@ -41,13 +41,13 @@ var swiper = new Swiper('.swiper-container', {
 });
 
 // Script ScrollReveal pour les animations au défilement
-// ScrollReveal({
-//   reset: true,
-//   distance: '80px',
-//   duration: 2000,
-//   delay: 200,
-// });
-// ScrollReveal().reveal('.container, .heading', { origin: 'top' });
-// ScrollReveal().reveal('.col-md-4, form', { origin: 'top' });
-// ScrollReveal().reveal('h1, h3, h4, h5, h2', { origin: 'top' });
-// ScrollReveal().reveal('p, .row, .arrow', { origin: 'top' });
+ScrollReveal({
+  reset: true,
+  distance: '80px',
+  duration: 2000,
+  delay: 200,
+});
+ScrollReveal().reveal('.container, .heading', { origin: 'top' });
+ScrollReveal().reveal('.col-md-4, form', { origin: 'top' });
+ScrollReveal().reveal('h1, h3, h4, h5, h2', { origin: 'top' });
+ScrollReveal().reveal('p, .row, .arrow', { origin: 'top' });

@@ -206,6 +206,9 @@ header.sticky {
 /* ############## */
 /* About */
 /* ############## */
+#about .container .row .col-md-6:last-child {
+  margin-top: 4rem;
+}
 
 /* ############## */
 /* Services */

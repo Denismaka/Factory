@@ -90,7 +90,7 @@
         <div class="col-md-6">
           <img src="/assets/images/about.jpg" class="img-fluid rounded" alt="">
         </div>
-        <div class="col-md-6 my-5">
+        <div class="col-md-6">
           <h2>Rêvez grand, inspirez le monde.</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugiat maiores, natus ipsa dolorem vitae rerum blanditiis dolorum labore! Odio, alias illum quibusdam voluptatum explicabo autem vel eveniet tempore possimus.</p>
           <ul class="px-3">
@@ -120,6 +120,7 @@
   <!-- ##############  -->
   <!-- Services  -->
   <!-- ##############  -->
+
 
 
   <!-- ##############  -->

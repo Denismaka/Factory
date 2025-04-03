@@ -349,11 +349,17 @@ header.sticky {
 .contact-form form {
   color: var(--green);
 }
+#contact .container .row .contact-form ::placeholder {
+  color: var(--green);
+}
 
 /* ############## */
 /* Footer */
 /* ############## */
-
+footer {
+  background-color: var(--black);
+  color: var(--white);
+}
 /* ############## */
 /* Responsive */
 /* ############## */

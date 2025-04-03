@@ -290,6 +290,13 @@
   <!-- ##############  -->
   <!-- Footer  -->
   <!-- ##############  -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <p class="text-center mt-4">&copy; 2025 <a href="#" class="text-decoration-none" style="color: #00af7a;">Denis Maka</a>, Tous droits réservés.</p>
+      </div>
+    </div>
+  </footer>
 
 
 

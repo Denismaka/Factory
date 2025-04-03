@@ -120,7 +120,45 @@
   <!-- ##############  -->
   <!-- Services  -->
   <!-- ##############  -->
-
+  <section class="services" id="services">
+    <div class="section-heading">
+      <h2>services</h2>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 py-5">
+          <i class="fa-brands fa-facebook"></i>
+          <h3 class="text-capitalize fw-bold py-3">mechanical works</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
+        </div>
+        <div class="col-md-4 py-5">
+          <i class="fa-brands fa-facebook"></i>
+          <h3 class="text-capitalize fw-bold py-3">power & energy</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
+        </div>
+        <div class="col-md-4 py-5">
+          <i class="fa-brands fa-facebook"></i>
+          <h3 class="text-capitalize fw-bold py-3">petroleum refinery</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
+        </div>
+        <div class="col-md-4 py-5">
+          <i class="fa-brands fa-facebook"></i>
+          <h3 class="text-capitalize fw-bold py-3">oil & gas industry</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
+        </div>
+        <div class="col-md-4 py-5">
+          <i class="fa-brands fa-facebook"></i>
+          <h3 class="text-capitalize fw-bold py-3">automative manufacturing</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
+        </div>
+        <div class="col-md-4 py-5">
+          <i class="fa-brands fa-facebook"></i>
+          <h3 class="text-capitalize fw-bold py-3">chemical research</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
   <!-- ##############  -->

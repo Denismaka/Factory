@@ -127,33 +127,33 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 py-5">
-          <i class="fa-brands fa-facebook"></i>
-          <h3 class="text-capitalize fw-bold py-3">mechanical works</h3>
+          <i class="fas fa-cogs"></i>
+          <h3 class="text-capitalize fw-bold py-3">travaux mécaniques</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
         </div>
         <div class="col-md-4 py-5">
-          <i class="fa-brands fa-facebook"></i>
-          <h3 class="text-capitalize fw-bold py-3">power & energy</h3>
+          <i class="fas fa-bolt"></i>
+          <h3 class="text-capitalize fw-bold py-3">puissance et énergie</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
         </div>
         <div class="col-md-4 py-5">
-          <i class="fa-brands fa-facebook"></i>
-          <h3 class="text-capitalize fw-bold py-3">petroleum refinery</h3>
+          <i class="fas fa-oil-can"></i>
+          <h3 class="text-capitalize fw-bold py-3">raffinerie de pétrole</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
         </div>
         <div class="col-md-4 py-5">
-          <i class="fa-brands fa-facebook"></i>
-          <h3 class="text-capitalize fw-bold py-3">oil & gas industry</h3>
+          <i class="fas fa-industry"></i>
+          <h3 class="text-capitalize fw-bold py-3">industrie pétrolière et gazière</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
         </div>
         <div class="col-md-4 py-5">
-          <i class="fa-brands fa-facebook"></i>
-          <h3 class="text-capitalize fw-bold py-3">automative manufacturing</h3>
+          <i class="fas fa-car"></i>
+          <h3 class="text-capitalize fw-bold py-3">fabrication automobile</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
         </div>
         <div class="col-md-4 py-5">
-          <i class="fa-brands fa-facebook"></i>
-          <h3 class="text-capitalize fw-bold py-3">chemical research</h3>
+          <i class="fas fa-flask"></i>
+          <h3 class="text-capitalize fw-bold py-3">recherche chimique</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quas minus placeat rerum ex eius vitae, corrupti ullam voluptate aperiam consectetur perspiciatis modi autem nemo molestias labore veritatis vel laudantium.</p>
         </div>
       </div>
@@ -175,7 +175,7 @@
         </div>
         <div class="col-md-4">
           <div class="content">
-            <h4 class="text-capitalize">oil & gas industry</h4>
+            <h4 class="text-capitalize">industrie pétrolière et gazière</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error consectetur voluptatibus tenetur animi. Quia sed aut sequi, labore eius, odio harum alias id tempora pariatur, incidunt tempore eum expedita libero.</p>
             <a href="#" class="btn">about us</a>
           </div>
@@ -185,7 +185,7 @@
         </div>
         <div class="col-md-4">
           <div class="content">
-            <h4 class="text-capitalize">automative manufacturing</h4>
+            <h4 class="text-capitalize">fabrication automobile</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error consectetur voluptatibus tenetur animi. Quia sed aut sequi, labore eius, odio harum alias id tempora pariatur, incidunt tempore eum expedita libero.</p>
             <a href="#" class="btn">about us</a>
           </div>
@@ -195,7 +195,7 @@
         </div>
         <div class="col-md-4">
           <div class="content">
-            <h4 class="text-capitalize">power & energy</h4>
+            <h4 class="text-capitalize">puissance et énergie</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error consectetur voluptatibus tenetur animi. Quia sed aut sequi, labore eius, odio harum alias id tempora pariatur, incidunt tempore eum expedita libero.</p>
             <a href="#" class="btn">about us</a>
           </div>
@@ -210,7 +210,7 @@
   <section class="témoignages" id="témoignages">
     <div class="section-heading">
       <h2>Témoignages</h2>
-      <h5 class="py-5 fs-1 text-capitalize">clients say about us </h5>
+      <h5 class="py-5 fs-1 text-capitalize">ce que les clients disent de nous</h5>
     </div>
     <div class="container">
       <div class="row">
@@ -262,9 +262,9 @@
             Eius assumenda, consectetur ad eligendi, maiores laboriosam possimus quam tenetur quae rem quas molestias dolorem iure nesciunt voluptate facere minima corrupti praesentium accusamus neque sequi. Nisi ab nihil deleniti repellendus!
             Illo labore sunt sapiente molestiae a. At repellat eveniet accusantium aliquid saepe quos omnis quasi tempore ut necessitatibus eos laboriosam corporis quidem commodi, nulla ipsa molestias esse, nostrum quae architecto.</p>
           <div class="adress">
-            <i class="fa fa-maps"><span>33 rue de la paix, Kinshasa(Drc)</span></i>
-            <i class="fa fa-phone"><span>+243000000000</span></i>
-            <i class="fa fa-envelope"><span>Factory@gmail.com</span></i>
+            <i class="fas fa-map"><span class="mx-3">33 rue de la paix, Kinshasa(Drc)</span></i>
+            <i class="fa fa-phone"><span class="mx-3">+243000000000</span></i>
+            <i class="fa fa-envelope"><span class="mx-3">Factory@gmail.com</span></i>
           </div>
           <div class="social">
             <a href="#" class="text-decoration-none"><i class="fa-brands fa-facebook"></i></a>

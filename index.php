@@ -245,16 +245,46 @@
     </div>
   </section>
 
-
-
-
-
-
-
-
   <!-- ##############  -->
   <!-- Contact  -->
   <!-- ##############  -->
+  <section id="contact" class="contact">
+    <div class="section-heading">
+      <h2>contactez nous</h2>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 contact-infos">
+          <a href="" class="text-decoration-none text-uppercase fw-bold fs-1">Factory</a>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem aut repellendus optio, aspernatur omnis voluptate delectus, animi hic nihil accusamus quod. Illo voluptatum quidem fugiat officiis repellendus recusandae dolores aspernatur?
+            Fuga sapiente inventore iste obcaecati, et provident sit? Voluptate officiis neque eligendi tenetur ipsum numquam distinctio cupiditate officia voluptates a, deserunt id aut ullam, delectus cum laudantium omnis maxime labore!
+            Maxime saepe perferendis voluptatum voluptates voluptate distinctio iste quidem ducimus nulla perspiciatis, cumque ipsam inventore aspernatur asperiores aut ea velit nostrum incidunt dolores? Sint at, ad quisquam voluptatibus ipsam culpa.
+            Eius assumenda, consectetur ad eligendi, maiores laboriosam possimus quam tenetur quae rem quas molestias dolorem iure nesciunt voluptate facere minima corrupti praesentium accusamus neque sequi. Nisi ab nihil deleniti repellendus!
+            Illo labore sunt sapiente molestiae a. At repellat eveniet accusantium aliquid saepe quos omnis quasi tempore ut necessitatibus eos laboriosam corporis quidem commodi, nulla ipsa molestias esse, nostrum quae architecto.</p>
+          <div class="adress">
+            <i class="fa fa-maps"><span>33 rue de la paix, Kinshasa(Drc)</span></i>
+            <i class="fa fa-phone"><span>+243000000000</span></i>
+            <i class="fa fa-envelope"><span>Factory@gmail.com</span></i>
+          </div>
+          <div class="social">
+            <a href="#" class="text-decoration-none"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#" class="text-decoration-none"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="#" class="text-decoration-none"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#" class="text-decoration-none"><i class="fa-brands fa-youtube"></i></a>
+          </div>
+        </div>
+        <div class="col-md-6 contact-form">
+          <form action="#">
+            <input type="text" placeholder="Nom">
+            <input type="text" placeholder="Prenom">
+            <input type="email" placeholder="Email">
+            <textarea placeholder="votre message" name="" id="" cols="30" rows="10"></textarea>
+            <input type="submit" value="Envoyer" class="btn">
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
   <!-- ##############  -->

@@ -178,19 +178,19 @@ header.sticky {
 }
 .slide1 {
     background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
-        url("/assets/images/Home.webp");
+        url("assets/images/Home.webp");
 }
 .slide2 {
     background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
-        url("/assets/images/home-02.webp");
+        url("assets/images/home-02.webp");
 }
 .slide3 {
     background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
-        url("/assets/images/home-03.webp");
+        url("assets/images/home-03.webp");
 }
 .slide4 {
     background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
-        url("/assets/images/home-04.webp");
+        url("assets/images/home-04.webp");
 }
 .swiper-button-next,
 .swiper-button-prev {
@@ -218,7 +218,7 @@ header.sticky {
     padding-top: 3rem;
     height: 120vh;
     background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
-        url("/assets/images/services.webp");
+        url("assets/images/services.webp");
     color: var(--white);
     background-size: cover;
     background-attachment: fixed;
